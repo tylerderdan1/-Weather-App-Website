@@ -80,11 +80,11 @@ const apiKey = "YOUR_API_KEY_HERE";
 
 ## Output
 
-Chennai(Tamilnadu):
+Mumbai(Maharashtra):
 
 ![Image](https://github.com/user-attachments/assets/3b3a7226-f7ad-4b15-b071-dbd9cf0b13aa)
 
-Mumbai(Maharashtra):
+Chennai(Tamilnadu):
 
 ![Image](https://github.com/user-attachments/assets/38104322-c810-46da-bad0-fc4fcda9529d)
 
