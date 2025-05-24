@@ -70,11 +70,11 @@ This app includes weather for the capitals of major Indian states, such as:
 'javascript'
 const apiKey = "YOUR_API_KEY_HERE";
 
-##🙌 Acknowledgements
+## 🙌 Acknowledgements
 
    OpenWeatherMap for the free weather API
 
-##✍️ Author
+## ✍️ Author
 
    Manigandan – Built as a beginner project for learning web development.
 
